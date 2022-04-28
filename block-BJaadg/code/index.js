@@ -7,7 +7,8 @@ let to = 'Arya Stark';
 /*
 1. Find the index of the first 'is' in the variable quote. And store it in a new variable named indexOfIs
 */
-
+quote.charAt[1];
+let indexOfIs = quote.charAt[0];
 /*
 2. Find the character at the index indexOfIs (Problem 1) in quote.
 */
@@ -15,7 +16,7 @@ let to = 'Arya Stark';
 /*
 3. Log the message saying `The index of first is in quote is 7`
 */
-
+console.log(`The index of first ${is} in quote is ${quote.charAt[1]}`);
 /*
 4. Log the message for first 6 characters of quote like this.
   The character at index 0 is 'T'
@@ -25,7 +26,7 @@ let to = 'Arya Stark';
   The character at index 4 is 'e'
   The character at index 5 is ' '
 */
-
+console.log(`The character at ${quote.chart[0]}  is 'T'`)
 /*
 5. Using the variable from , to and quote variable dispaly this message
   "Syrio Forel said There is only one thing we say to death: Not today to Arya Stark." (use concat method)
