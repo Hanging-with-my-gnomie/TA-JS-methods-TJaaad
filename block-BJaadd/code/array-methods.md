@@ -33,15 +33,15 @@ Example:
    - `concat` accepts n number of values and returns one array with all the values in same order. It does not change the original array.
    - No it does not mutate the original array
 
-2. `join`
-3. `flat`
-4. `push`
-5. `indexOf`
-6. `lastIndexOf`
-7. `includes`
-8. `reverse`
-9. `every`
-10. `shift`
+2. `join`//  it is used to join two arrays.it accepts multiple values but return single strings.
+3. `flat`//  it is used to join two arrays.it accepts multiple values but return single strings.
+4. `push`//  it is used to join two arrays.it accepts multiple values but return single strings.
+5. `indexOf`//  it is used to join two arrays.it accepts multiple values but return single strings.
+6. `lastIndexOf`//  it is used to join two arrays.it accepts multiple values but return single strings.
+7. `includes`//  it is used to join two arrays.it accepts multiple values but return single strings.
+8. `reverse`//  it is used to join two arrays.it accepts multiple values but return single strings.
+9. `every`//  it is used to join two arrays.it accepts multiple values but return single strings.
+10. `shift`// //  it is used to join two arrays.it accepts multiple values but return single strings. it is used to join two array//  it is used to join two arrays.it accepts multiple values but return single strings.s.it accepts multiple values but return single strings.
 11. `splice`
 12. `find`
 13. `unshift`
