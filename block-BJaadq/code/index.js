@@ -15,14 +15,14 @@ function everyone() {
 function nameWithS() {
   // your code goes here
 }
-
+code 
 function nameWithA() {
   // your code goes here
 }
 
 function surnameWithS() {
   // your code goes here
-}
+}code 
 
 function surnameWithA() {
   // your code goes here
@@ -31,7 +31,7 @@ function surnameWithA() {
 function peopleNameOfAllHouses() {
   // your code goes here
 }
-
+code
 // Testing your result after writing your function
 console.log(countAllPeople());
 // Output should be 33
