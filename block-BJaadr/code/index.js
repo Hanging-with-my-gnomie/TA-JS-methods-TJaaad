@@ -3,6 +3,7 @@
 function countAllPeople() {
   // your code goes here
 }
+code 
 
 function peopleByHouses() {
   // your code goes here
@@ -11,7 +12,7 @@ function peopleByHouses() {
 function everyone() {
   // your code goes here
 }
-
+code 
 function nameWithS() {
   // your code goes here
 }
