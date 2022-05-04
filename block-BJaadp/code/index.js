@@ -16,11 +16,11 @@ let persons = [
 // NOTE: Use reduce method whereever you can to solve this exercise:
 
 // Find the average grade
-
+hoe 
 // Find the average grade of male
-
+hoe 
 // Find the average grade of female
-
+hoe 
 // Find the highest grade
 
 // Find the highest grade in male
